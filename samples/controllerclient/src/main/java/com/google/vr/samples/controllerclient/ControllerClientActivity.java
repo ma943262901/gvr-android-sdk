@@ -45,7 +45,6 @@ public class ControllerClientActivity extends Activity {
 
     // General view initialization.
     setContentView(R.layout.main_layout);
-//hehehe
     apiStatusView = (TextView) findViewById(R.id.api_status_view);
     controllerStateView = (TextView) findViewById(R.id.controller_state_view);
     controllerTouchpadView = (TextView) findViewById(R.id.controller_touchpad_view);
